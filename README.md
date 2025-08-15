@@ -44,6 +44,6 @@
 ---
 
 ## 📫 Contact Me
-- 📧 **Email:** paygudevaishnav095@example.com  
+- 📧 **Email:** paygudevaishnav095@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/vaishnavpaygude](https://linkedin.com/in/vaishnavpaygude)  
 - 🐙 **GitHub:** [github.com/VaishnavPaygude](https://github.com/VaishnavPaygude)
